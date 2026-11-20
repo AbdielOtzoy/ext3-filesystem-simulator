@@ -1,0 +1,5 @@
+backend/bin/
+backend/tmp/
+backend/output/
+node_modules/
+.next/
