@@ -38,4 +38,4 @@ There is also a `backend/dockerfile`.
 
 [Technical manual](docs/ManualTecnico_ext2.pdf) · [User manual](docs/ManuaUsuario_ext2.pdf)
 
-The first version (EXT2 only, without journaling or the file explorer) is in [MIA_1S2025_P1_202300350](https://github.com/AbdielOtzoy/MIA_1S2025_P1_202300350).
+The first version (EXT2 only, without journaling or the file explorer) is in [ext2-filesystem-simulator](https://github.com/AbdielOtzoy/ext2-filesystem-simulator).
